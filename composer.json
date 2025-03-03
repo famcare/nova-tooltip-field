@@ -1,5 +1,5 @@
 {
-    "name": "helios-live/nova-tooltip-field",
+    "name": "famcare/nova-tooltip-field",
     "description": "A Laravel Nova field to show additional data but not clutter the table.",
     "keywords": [
         "laravel",
